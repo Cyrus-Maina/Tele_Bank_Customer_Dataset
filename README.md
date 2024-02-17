@@ -26,6 +26,6 @@ This may be an area to focus on.
 10. That is followed by a solid 'Good', 670-739. They may deserve financial education also to prevent them from dipping into Fair.
 Having them progress to Very Good may help realize opportunities to make more revenue.
 
-11. Most customers earn decent salaries posing a potential market with steady revenues.
+11. Most customers earn decent salaries, 100-200K posing a potential market with steady revenues.
 
-12. However there is a large number of customers with zero balance but a significant base of decent balances who may have higher disposable incomes or saving discipline Th few customers may afford certain relatable products.
+12. However there is a large number of customers with zero balance but a significant base of decent balances 50-200K who may have higher disposable incomes or saving discipline Th few customers may afford certain relatable products.
