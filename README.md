@@ -15,10 +15,15 @@
 5. Germany has the largest share of inactive accounts. Would be worthwhile to find out why to adjust
 
 6. The bank has an almost diversity of gender with 42% being women. France has the most women reflecting supportive gender policies there.
-   This may be an area to focus on.
+This may be an area to focus on.
 
 7. Most customers have 2 products. Customers with 4 products have the highest average income, this may support the idea that getting a good share of customers who earn 118K to buy more products may help the bank increase revenues.
 
 8. 57% of customers in France earn more than 118K, posing an interesting market to maximize on.
 
-9. 
+9. Most customers have a credit score rating of 580-669, 'Fair'. This group may be worth financial education to support them across 'Good', and be a potential market for certain products.
+
+10. That is followed by a solid 'Good', 670-739. They may deserve financial education also to prevent them from dipping into Fair.
+Having them progress to Very Good may help realize opportunities to make more revenue.
+
+11. 
