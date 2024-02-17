@@ -1,2 +1,6 @@
 # Tele_Bank_Customer_Dataset
-We analyze the customer dataset with the sole intention of extracting as many useful insights that may help the bank's shareholders make decisions that will keep them financially healthy.
+
+**BUSINESS INSIGHTS**
+
+1. The age group 90-100 years has the largest average account balances. However, these  can be an outlier group.
+2. 
