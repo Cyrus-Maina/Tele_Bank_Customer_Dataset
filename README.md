@@ -8,14 +8,17 @@
 
 3. Most customers are aged 30-39, maybe as a result of decreased unemployment. They pose as a good source of a variety of products.
 
-4. 49.5% of the customers are inactive. This may mean the bank is not operating at its full capacity. However, their average income is 112K,
-   maybe a worthwhile investment to regain them.
+4. 49.5% of the customers are inactive. This may mean the bank is not operating at its full capacity. However, their average income is 112K, which may be a worthwhile investment to regain them.
 
-   2823 inactive customers have credit scores higher than 'Very Good'. A factor that could influence decision-making.
+2823 inactive customers have credit scores higher than 'Very Good'. A factor that could influence decision-making.
 
 5. Germany has the largest share of inactive accounts. Would be worthwhile to find out why to adjust
 
 6. The bank has an almost diversity of gender with 42% being women. France has the most women reflecting supportive gender policies there.
    This may be an area to focus on.
 
-7. 
+7. Most customers have 2 products. Customers with 4 products have the highest average income, this may support the idea that getting a good share of customers who earn 118K to buy more products may help the bank increase revenues.
+
+8. 57% of customers in France earn more than 118K, posing an interesting market to maximize on.
+
+9. 
